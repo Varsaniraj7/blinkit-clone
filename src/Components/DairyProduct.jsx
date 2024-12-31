@@ -7,7 +7,7 @@ export default function DairyProduct() {
             name: 'Amul Gold Full Cream Fresh Milk',
             size: '500 ml',
             price: '₹33',
-            image: '/src/assets/dairy/amul-gold.webp', 
+            image: 'amul-gold.webp', 
             deliveryTime: '8 MINS',
         },
         {
@@ -23,7 +23,7 @@ export default function DairyProduct() {
             name: 'Amul Masti Curd',
             size: '400 g',
             price: '₹35',
-            image: '/src/assets/dairy/amul-masti-1.avif',
+            image: 'amul-masti-1.webp',
             deliveryTime: '8 MINS',
           },
           {
@@ -31,7 +31,7 @@ export default function DairyProduct() {
             name: 'Amul Masti Curd',
             size: '200 g',
             price: '₹23',
-            image: '/src/assets/dairy/amul-masti-2.avif',
+            image: 'amul-masti-2.webp',
             deliveryTime: '8 MINS',
           },
           {
@@ -39,7 +39,7 @@ export default function DairyProduct() {
             name: 'Amul Salted Butter',
             size: '100 g',
             price: '₹60',
-            image: '/src/assets/dairy/amul-salted-butter.avif',
+            image: 'amul-salted-butter.webp',
             deliveryTime: '8 MINS',
           },
           {
@@ -48,7 +48,7 @@ export default function DairyProduct() {
             size: '200 g',
             price: '₹134',
             originalPrice: '₹135',
-            image: '/src/assets/dairy/amul-cheese-cubes.avif',
+            image: 'amul-cheese-cubes.webp',
             deliveryTime: '8 MINS',
           },
     ]
