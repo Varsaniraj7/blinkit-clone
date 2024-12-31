@@ -15,7 +15,7 @@ export default function DairyProduct() {
             name: 'Amul Taaza Toned Fresh Milk',
             size: '500 ml',
             price: '₹27',
-            image: '/src/assets/dairy/amul-taaza.avif',
+            image: 'amul-taaza.webp',
             deliveryTime: '8 MINS',
           },
           {
