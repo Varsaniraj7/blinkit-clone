@@ -7,7 +7,7 @@ export default function DairyProduct() {
             name: 'Amul Gold Full Cream Fresh Milk',
             size: '500 ml',
             price: '₹33',
-            image: '../src/assets/dairy/amul-gold.avif', 
+            image: '../src/assets/dairy/amul-gold.webp', 
             deliveryTime: '8 MINS',
         },
         {
