@@ -7,7 +7,7 @@ export default function CandiesProduct() {
             name: 'Chupa Chups Sour Belt Mixed Fruit Candy',
             size: '57.6 g',
             price: '₹30',
-            image: '/src/assets/candies/chupa_chups_sour_belt.avif',
+            image: 'chupa_chups_sour_belt.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -15,7 +15,7 @@ export default function CandiesProduct() {
             name: 'Chupa Chups Sour Bites Mixed Fruit Candy',
             size: '93 g',
             price: '₹50',
-            image: '/src/assets/candies/chupa_chups_sour_bites.avif',
+            image: 'chupa_chups_sour_bites.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -23,7 +23,7 @@ export default function CandiesProduct() {
             name: 'Center Freah Sugar Free Mint Candy',
             size: '35 g',
             price: '₹100',
-            image: '/src/assets/candies/center_fresh_sugar_mint_candy.avif',
+            image: 'center_fresh_sugar_mint_candy.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -31,7 +31,7 @@ export default function CandiesProduct() {
             name: 'Alpenliebe Pop Assored Flavours Lollipop (with Toy...',
             size: '5 x 8 g',
             price: '₹50',
-            image: '/src/assets/candies/alpenliebe_pop_assored_flavours.avif',
+            image: 'alpenliebe_pop_assored_flavours.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -40,7 +40,7 @@ export default function CandiesProduct() {
             size: '120 tablets',
             price: '₹68',
             originalPrice: '₹70',
-            image: '/src/assets/candies/dabur_hajmora_imli_digestive_tablets.avif',
+            image: 'dabur_hajmora_imli_digestive_tablets.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -48,7 +48,7 @@ export default function CandiesProduct() {
             name: 'Sour Punk Cola Flavour Stick Candy',
             size: '40 g',
             price: '₹35',
-            image: '/src/assets/candies/sour_punk_cola_flavour_stick_candy.avif',
+            image: 'sour_punk_cola_flavour_stick_candy.webp',
             deliveryTime: '8 MINS',
         },
     ]
