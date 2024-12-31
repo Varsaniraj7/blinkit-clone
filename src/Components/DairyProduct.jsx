@@ -7,7 +7,7 @@ export default function DairyProduct() {
             name: 'Amul Gold Full Cream Fresh Milk',
             size: '500 ml',
             price: '₹33',
-            image: './src/assets/dairy/amul-gold.avif', 
+            image: '/assets/dairy/amul-gold.avif', 
             deliveryTime: '8 MINS',
         },
         {
@@ -15,7 +15,7 @@ export default function DairyProduct() {
             name: 'Amul Taaza Toned Fresh Milk',
             size: '500 ml',
             price: '₹27',
-            image: '/src/assets/dairy/amul-taaza.avif',
+            image: '/assets/dairy/amul-taaza.avif',
             deliveryTime: '8 MINS',
           },
           {
