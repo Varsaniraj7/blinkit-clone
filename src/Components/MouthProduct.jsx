@@ -7,7 +7,7 @@ export default function MouthProduct() {
             name: 'Center Fresh Sugar Free Mint Candy',
             size: '35 g',
             price: '₹100',
-            image: '/src/assets/mouthfresheners/center_fresh_mint.avif',
+            image: 'center_fresh_mint.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -16,7 +16,7 @@ export default function MouthProduct() {
             size: '250 g',
             price: '₹335',
             originalPrice: '₹360',
-            image: '/src/assets/mouthfresheners/praakritik_natural_paan_gulkand.avif',
+            image: 'praakritik_natural_paan_gulkand.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -24,7 +24,7 @@ export default function MouthProduct() {
             name: 'Chandan Mitha Amla Candy',
             size: '100 g',
             price: '₹60',
-            image: '/src/assets/mouthfresheners/chandan_mitha_amla_candy.avif',
+            image: 'chandan_mitha_amla_candy.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -33,7 +33,7 @@ export default function MouthProduct() {
             size: '1 pack (13 g x 12 pieces)',
             price: '₹223',
             originalPrice:'₹240',
-            image: '/src/assets/mouthfresheners/tic_tac_orange_mouth_freshner.avif',
+            image: 'tic_tac_orange_mouth_freshner.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -41,7 +41,7 @@ export default function MouthProduct() {
             name: 'Barkleys Peppermint Intense Mint Candies',
             size: '50 g',
             price: '₹300',
-            image: '/src/assets/mouthfresheners/barkleys_peppermint_intense_mint_candies_1.avif',
+            image: 'barkleys_peppermint_intense_mint_candies_1.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -49,7 +49,7 @@ export default function MouthProduct() {
             name: 'Barkleys Wintergreen Intense Mint Candies',
             size: '50 g',
             price: '₹300',
-            image: '/src/assets/mouthfresheners/barkleys_peppermint_intense_mint_candies_2.avif',
+            image: 'barkleys_peppermint_intense_mint_candies_2.webp',
             deliveryTime: '8 MINS',
         },
     ]

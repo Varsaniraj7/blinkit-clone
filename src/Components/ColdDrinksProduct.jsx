@@ -8,7 +8,7 @@ export default function ColdDrinksProduct() {
             size: '1 kg',
             price: '₹60',
             originalPrice: '₹80',
-            image: '/src/assets/colddrinks/Sparkling_ice_cubes.avif',
+            image: 'Sparkling_ice_cubes.avif',
             deliveryTime: '8 MINS',
         },
         {
@@ -17,7 +17,7 @@ export default function ColdDrinksProduct() {
             size: '2 x 750 ml',
             price: '₹89',
             originalPrice: '₹90',
-            image: '/src/assets/colddrinks/coca_cola_drink.avif',
+            image: 'coca_cola_drink.avif',
             deliveryTime: '8 MINS',
         },
         {
@@ -25,7 +25,7 @@ export default function ColdDrinksProduct() {
             name: 'Sprite Lime Flavored Soft Drink 750 ml',
             size: '750 ml',
             price: '₹45',
-            image: '/src/assets/colddrinks/sprite_lime_flavoured_drink.avif',
+            image: 'sprite_lime_flavoured_drink.avif',
             deliveryTime: '8 MINS',
         },
         {
@@ -33,7 +33,7 @@ export default function ColdDrinksProduct() {
             name: 'Bisleri Packaged Water',
             size: '5 l',
             price: '₹70',
-            image: '/src/assets/colddrinks/bisleri_packaged_water.avif',
+            image: 'bisleri_packaged_water.avif',
             deliveryTime: '8 MINS',
         },
         {
@@ -42,7 +42,7 @@ export default function ColdDrinksProduct() {
             size: '2.25 l',
             price: '₹95',
             originalPrice:'₹100',
-            image: '/src/assets/colddrinks/thums_up_drink.avif',
+            image: 'thums_up_drink.avif',
             deliveryTime: '8 MINS',
         },
         {
@@ -50,7 +50,7 @@ export default function ColdDrinksProduct() {
             name: 'Kinley Soda Water',
             size: '1 l',
             price: '₹20',
-            image: '/src/assets/colddrinks/kinley_soda_water.avif',
+            image: 'kinley_soda_water.avif',
             deliveryTime: '8 MINS',
         },
     ]
