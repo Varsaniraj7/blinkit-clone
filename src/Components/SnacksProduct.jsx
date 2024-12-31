@@ -7,7 +7,7 @@ export default function SnacksProduct() {
             name: 'Cheetos Cheez Puffs',
             size: '8 g',
             price: '₹10',
-            image: '/src/assets/snack/cheetos_cheez_puffs.avif',
+            image: 'cheetos_cheez_puffs.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -16,7 +16,7 @@ export default function SnacksProduct() {
             size: '24.8 g',
             price: '₹161',
             originalPrice: '₹170',
-            image: '/src/assets/snack/cheetos_cheese_flavoured_puffs.avif',
+            image: 'cheetos_cheese_flavoured_puffs.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -24,7 +24,7 @@ export default function SnacksProduct() {
             name: 'Kettle Studio Potato Chips - Sweet Chilli Wi...',
             size: '113 g',
             price: '₹99',
-            image: '/src/assets/snack/kettle_studio_potato_chips.avif',
+            image: 'kettle_studio_potato_chips.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -32,7 +32,7 @@ export default function SnacksProduct() {
             name: 'Cheetos Cheddar Popcorn',
             size: '17.7 g',
             price: '₹170',
-            image: '/src/assets/snack/cheetos_cheddar_popcorn.avif',
+            image: 'cheetos_cheddar_popcorn.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -41,7 +41,7 @@ export default function SnacksProduct() {
             size: '70 g',
             price: '₹50',
             originalPrice: '₹60',
-            image: '/src/assets/snack/orion_k_snack_kimchi_onion_rings_1.avif',
+            image: 'orion_k_snack_kimchi_onion_rings_1.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -50,7 +50,7 @@ export default function SnacksProduct() {
             size: '140 g',
             price: '₹90',
             originalPrice: '₹120',
-            image: '/src/assets/snack/orion_k_snack_kimchi_onion_rings.avif',
+            image: 'orion_k_snack_kimchi_onion_rings.webp',
             deliveryTime: '8 MINS',
         },
     ]
