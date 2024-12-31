@@ -7,7 +7,7 @@ export default function HookahProduct() {
             name: 'Chief Commissioner Herbal Hookah Flavor...',
             size: '50 g',
             price: '₹100',
-            image: '/src/assets/hookah/chief_commissioner_herbal_hookah_flavor.avif',
+            image: 'chief_commissioner_herbal_hookah_flavor.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -15,7 +15,7 @@ export default function HookahProduct() {
             name: 'Bombay Paan Masala Herbal Hookah Flavor...',
             size: '50 g',
             price: '₹100',
-            image: '/src/assets/hookah/bombay_paan_masala_herbal_hookah_flavor.avif',
+            image: 'bombay_paan_masala_herbal_hookah_flavor.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -23,7 +23,7 @@ export default function HookahProduct() {
             name: 'Natural Spring Water Herbal Hookah Flavor...',
             size: '50 g',
             price: '₹100',
-            image: '/src/assets/hookah/natural_spring_water_herbal_hookah_flavor.avif',
+            image: 'natural_spring_water_herbal_hookah_flavor.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -31,7 +31,7 @@ export default function HookahProduct() {
             name: 'Hookah Premium Plastic Filters by Rhythm...',
             size: '1 pack (20 pieces)',
             price: '₹150',
-            image: '/src/assets/hookah/hookah_premium_plastic_filters.avif',
+            image: 'hookah_premium_plastic_filters.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -39,7 +39,7 @@ export default function HookahProduct() {
             name: 'Iron Hookah Tong by Smokey Lust',
             size: '1 unit',
             price: '₹100',
-            image: '/src/assets/hookah/iron_hookah_tong.avif',
+            image: 'iron_hookah_tong.webp',
             deliveryTime: '8 MINS',
         },
         {
@@ -47,7 +47,7 @@ export default function HookahProduct() {
             name: 'Premium Silver Hookah Foil by Rhythm Imports',
             size: '1 pack (30 pieces)',
             price: '₹100',
-            image: '/src/assets/hookah/premium_silver_hookah_foil.avif',
+            image: 'premium_silver_hookah_foil.webp',
             deliveryTime: '8 MINS',
         },
     ]
