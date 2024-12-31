@@ -138,14 +138,14 @@ const Footer = () => {
             <h5 className="font-bold text-lg mb-4">Download App</h5>
             <a href="#" className="block">
               <img
-                src="/src/assets/googleplay.webp"
+                src="googleplay.webp"
                 alt="Google Play"
                 className="h-10"
               />
             </a>
             <a href="#" className="block">
               <img
-                src="/src/assets/appstore.webp"
+                src="appstore.webp"
                 alt="App Store"
                 className="h-10"
               />
